@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetinal&label=Profile%20views&color=37c011&style=flat" alt="ahmetinal" /> </p>
 
-- 🔭 I’m currently working on [ATLAS UAV Team](https://www.ieeeiuc.com/sb/tr)
+- 🔭 I’m currently working on [ATLAS UAV Team](https://www.ieeeiuc.com/sb/tr/projeler/sirius)
 
 - 🌱 I’m currently learning **Kubernetes & Docker**
 
